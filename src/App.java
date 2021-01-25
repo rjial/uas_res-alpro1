@@ -8,6 +8,6 @@ public class App {
         // iki mek gae contoh jawaban user e, ngkok dicocokno gae fungsi ndek class
         // Fungsi
         String[][] jawaban = { { "1", "asdasd" } };
-
+        System.out.print("Tes");
     }
 }
