@@ -9,5 +9,11 @@ public class App {
         // Fungsi
         Object[][] jawaban = { { 1, "asdasd" } };
 
+        Object[][] result = { { 1, "asdasd", "qweqwe", true } };
+
+        Object[][] hasil = Fungsi.quiz(array, jawaban);
+
+        System.out.println(hasil);
+
     }
 }
