@@ -1,8 +1,9 @@
 public class Fungsi {
     public static Object[][] quiz(Object[][] array, Object[][] jawaban) {
+        // return jawaban;
         Object[][] result = new Object[array.length][4];
-        for (int a = 0; a <= array.length; a++) {
-            for (int b = 0; b <= jawaban.length; b++) {
+        for (int a = 0; a < array.length; a++) {
+            for (int b = 0; b < jawaban.length; b++) {
                 if (array[a][0] == jawaban[b][0]) {
                     result[a][0] = array[a][0];
                     result[a][1] = jawaban[b][1];
