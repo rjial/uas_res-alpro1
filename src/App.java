@@ -26,7 +26,7 @@ public class App {
             int menu = input.nextInt();
             if (menu == 1) {
                 for (int a = 0; a < array.length; a++) {
-                    Runtime.getRuntime().exec("cls");
+                    // Runtime.getRuntime().exec("cls");
                     System.out.println("Quiz 1: " + array[a][1]);
                     System.out.println("1. " + array[a][3]);
                     System.out.println("2. " + array[a][4]);
