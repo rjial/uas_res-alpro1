@@ -22,14 +22,19 @@ public class App {
             System.out.println("1. Start");
             System.out.println("2. Keluar");
             System.out.println("======================================");
-            System.out.println("Pilih Menu :");
+            System.out.print("Pilih Menu :");
             int menu = input.nextInt();
             if (menu == 1) {
-                System.out.println("Quiz 1: " + array[0][1]);
-                System.out.println("1. " + array[0][3]);
-                System.out.println("2. " + array[0][4]);
-                System.out.println("3. " + array[0][5]);
-                System.out.println("4. " + array[0][6]);
+                for (int a = 0; a < array.length; a++) {
+                    Runtime.getRuntime().exec("cls");
+                    System.out.println("Quiz 1: " + array[a][1]);
+                    System.out.println("1. " + array[a][3]);
+                    System.out.println("2. " + array[a][4]);
+                    System.out.println("3. " + array[a][5]);
+                    System.out.println("4. " + array[a][6]);
+                    int pilihan = input.nextInt();
+                    Object jawab = array[a][pilihan + 2];
+                }        
             } else {
                 lanjut = false;
             }
