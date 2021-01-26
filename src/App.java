@@ -34,7 +34,10 @@ public class App {
                     System.out.println("4. " + array[a][6]);
                     int pilihan = input.nextInt();
                     Object jawab = array[a][pilihan + 2];
-                }        
+                    jawaban[a][0] = array[a][0];
+                    jawaban[a][1] = jawab;
+                }
+                Object[][] hasil = Fungsi.quiz(array, jawaban);
             } else {
                 lanjut = false;
             }
