@@ -86,6 +86,22 @@ public class Soal {
                     "Pramuka", "PMI" },
             { 35, "Taman hutan raya Ir. Juanda terletak di provinsi", "Jawa Barat", "Jawa Barat", "Jawa Tengah",
                     "Jawa Timur", "DKI Jakarta" },
+            {36,"Vitamin yang banyak terkandung dalam buah-buahan adalah ?","Vitamin C","Vitamin A","Vitamin B","Vitamin C","Vitamin D"},
+            {37,"Arah jam 9 itu sama dengan arah ?","Barat","Utara","Barat","Selatan","Timur"},
+            {38,"Mata uang negara Jepang yaitu ?","Yen","Dollar","Peso","Euro","Dollar"},
+            {39,"Layar komputer disebut juga","Monitor","Touchscrenn","TV","LED","Monitor"},
+            {40,"Ibukota negara Rusia yaitu","Moscow","St. Petersburg","Kiev","Perm","Moscow"},
+            {41,"Negara kecil yang sangat kaya dan benderanya sama dengan Belanda adalah","Luxemberg","Vatikan","Luxemberg","Yunani","Italy"},
+            {42,"Pusat keuangan kota Amerika Serikat adalah","New York","New York","Vanchouver","Washington DC","California"},
+            {43,"Anjing Pitbull berasal dari negara","Inggris","Irlandia","Inggris","Spanyol","Swedia"},
+            {44,"Penemu radio berasal dari negara","Italy","Inggris","Italy","Amerika","German"},
+            {45,"Primata paling cerdas adalah","Simpanse","Monyet","Simpanse","Gorilla","Kera"},
+            {46,"Casablanka adalah contoh merek produk","Parfum","Pakaian","Parfum","Tas","Elektronik"},
+            {47,"Tari kecak adalah tari yang berasal dari daerah","Bali","Jatim","Bali","Jogja","Jabar"},
+            {47,"Indonesia dijajah Jepang selama","3,5 tahun","3,5 tahun","2,5 tahun","2 tahun","4 tahun"},
+            {48,"Lagu Pai Mura Rame berasal dari daerah","NTT","NTB","NTT","Maluku","Papua"},
+            {49,"Film horor Insidious rilis pada tahun","2011","2010","2011","2012","2013"},
+            {50,"Kapten Pattimura lahir di ?","Ambon","Maluku","NTT","NTB","Ambon"}
 
     };
 
