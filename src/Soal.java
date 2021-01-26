@@ -1,8 +1,8 @@
 public class Soal {
     // {"nomer e", "soal e", "jawaban sing bener", "jawaban A", "jawaban B",
     // "jawaban C", "jawaban D"}
-    Object[][] array = { { 1, "Binatang apa yang bisa hidup di darat dan air?", "Amfibi", "Carnivora", "Mamalia","Amfibi", "Herbivora" }, 
-                        { 2, "Negara terluas keempat di dunia adalah ?","Amerika","Rusia","India","Amerika","Canada" }, 
+    Object[][] array = {{1, "Binatang apa yang bisa hidup di darat dan air?", "Amfibi", "Carnivora", "Mamalia","Amfibi", "Herbivora" }, 
+                        {2, "Negara terluas keempat di dunia adalah ?","Amerika","Rusia","India","Amerika","Canada" }, 
                         {3,"Monumen terkenal di Paris adalah ?","Menara Eiffel","Menara Eiffel","Piramida","Borobudur","Menara Pisa"},
                         {4,"Bahan bakar kereta api adalah ?","Batubara","Avtur","Batubara","Bensin","Solar"},
                         {5,"Gunung tertinggi di dunia adalah ?","Gunung Everest","Gunung K2","Gunung Makalu","Gunung Lhotse","Gunung Everest"},
