@@ -1,4 +1,3 @@
-import java.util.Arrays;
 import java.util.Scanner;
 
 public class App {
@@ -72,6 +71,6 @@ public class App {
                 lanjut = false;
             }
         }
-
+        input.close();
     }
 }
